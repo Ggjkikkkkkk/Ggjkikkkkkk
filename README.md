@@ -1,4 +1,4 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">        
 
 
-![<Badge Name>](https://img.shields.io/badge/<Badge
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white
