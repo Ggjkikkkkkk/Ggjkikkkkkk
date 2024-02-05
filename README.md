@@ -9,9 +9,7 @@
 
 ⌬〡 *ɴᴀᴍᴇ ʙᴏᴛ* : ᴇʟᴀɪɴᴀ ᴀɪ
 ⌬〡 *ᴄʀᴇᴀᴛᴏʀ* : rizal developer
-⌬〡︎ *ᴠᴇʀsɪᴏɴs* : 3.0.0
-⌬〡︎ *ᴛʏᴘᴇ sᴄʀɪᴘᴛ* : ᴘʟᴜɢɪɴs
-⌬〡 *ɪɴsᴛɢʀᴀᴍ* : https://instagram.com/zal_x_u
+⌬
 
 
 <h1 align="center">rizal - developer</h1>
