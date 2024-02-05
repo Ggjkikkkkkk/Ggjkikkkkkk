@@ -9,7 +9,7 @@
 
 ⌬〡 *ɴᴀᴍᴇ ʙᴏᴛ* : ᴇʟᴀɪɴᴀ ᴀɪ
 ⌬〡 *ᴄʀᴇᴀᴛᴏʀ* : rizal developer
-|⌬
+⌬
 
 
 <h1 align="center">rizal - developer</h1>
